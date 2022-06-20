@@ -1,8 +1,7 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseho27060&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![seho27060's GitHub stats](https://github-readme-stats.vercel.app/api?username=seho27060&theme=vue&show_icons=true)       [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seho27060)](https://solved.ac/seho27060)
+![seho27060's GitHub stats](https://github-readme-stats.vercel.app/api?username=seho27060&theme=vue&show_icons=true)       [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seho27060)](https://solved.ac/seho27060)
 
 ---
 
