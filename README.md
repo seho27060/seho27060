@@ -6,6 +6,7 @@
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=seho27060&theme=vue&show_icons=true"/>
+ 
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seho27060"/>
 </div>
 
