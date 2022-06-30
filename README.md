@@ -1,7 +1,8 @@
 
 <div align="center">
  <h3> Hi there 👋 </h3>
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseho27060&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=false"/>
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseho27060&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=false"
+ style="width:200px; height:150px; border:1px solid red; float: left;"/>
 </div>
 
 <p align="center">
