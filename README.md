@@ -15,7 +15,7 @@
 <div align = "center">
  <p>✏ 전남대학교 산업공학과 학사 May 2016 – Feb 2022 </p>
  <p>✏ 전남대학교 통계학과 학사 May 2016 – Feb 2022 </p>
- <p>💻 삼성 청년 소프트웨어 아카데미(SSAFY) May 2022 – Jan 2023</p>
+ <p>💻 삼성 청년 소프트웨어 아카데미(SSAFY) 7기 May 2022 – Jan 2023</p>
 </div>
 <br>
 
