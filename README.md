@@ -1,6 +1,7 @@
 
 <div align="center">
  <h3> Hi there 👋 </h3>
+ <br>
  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseho27060&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=false"/>
 </div>
 
@@ -10,11 +11,18 @@
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seho27060"
       style="float: left;"/>
 </p>
-
+<br>
+<div align = "center">
+ <p>✏ 전남대학교 산업공학과 학사 May 2016 – Feb 2022 </p>
+ <p>✏ 전남대학교 통계학과 학사 May 2016 – Feb 2022 </p>
+ <p>💻 삼성 청년 소프트웨어 아카데미(SSAFY) May 2022 – Jan 2023</p>
+</div>
+<br>
 
 ---
 
-### ✨Language & Framework 
+<h3 align = 'center' style:"text-bold"> ✨Language & Framework </h3>
+<br>
 <div align='center'>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
