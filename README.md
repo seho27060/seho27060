@@ -26,20 +26,20 @@
 <div align='center'>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
 </div>
 
 <div align='center'>
   <img src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
 
 </div>
 <div align='center'>
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
 </div>
 
@@ -55,7 +55,7 @@
 ![Naver Badge](https://img.shields.io/badge/<Naver>-<Naver>-<#03C75A/?logo=Naver)
 ---
 ### ❤ Loves
-  <img src="https://img.shields.io/badge/NewBalance-CF0A2C.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NewBalance-CF0A2C.svg?&style=for-the-badge&logo=NewBalance&logoColor=white"/>
 <!--
 **seho27060/seho27060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
