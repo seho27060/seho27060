@@ -3,9 +3,9 @@
  
  <details>
 <summary><h3> Hi there 👋 </h3></summary>
-<div>
+<div >
 
-![행복하세요_AdobeExpress](https://user-images.githubusercontent.com/81341784/190870522-6d671beb-aa47-410e-9b0a-1033f54f4d58.gif)
+<img src= "https://user-images.githubusercontent.com/81341784/190870522-6d671beb-aa47-410e-9b0a-1033f54f4d58.gif" style="width: 600px; height: auto;">
 
 </div>
 </details>
