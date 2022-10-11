@@ -33,6 +33,7 @@
 <br>
 <div align='center'>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
 </div>
@@ -42,6 +43,16 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
+</div>
+
+<div align='center'>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF.svg?&style=for-the-badge&logo=ApacheHadoop&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spark-E25A1C.svg?&style=for-the-badge&logo=ApacheSpark&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Zeppelin-E25A1C.svg?&style=for-the-badge&logo=ApacheZeppelin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Selenium-43B02A.svg?&style=for-the-badge&logo=Selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
+</div>
 
 </div>
 <div align='center'>
