@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
 </div>
 
 <div align='center'>
@@ -47,19 +46,8 @@
 </div>
 
 <div align='center'>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF.svg?&style=for-the-badge&logo=ApacheHadoop&logoColor=white"/>
- <img src="https://img.shields.io/badge/Spark-E25A1C.svg?&style=for-the-badge&logo=ApacheSpark&logoColor=white"/>
- <img src="https://img.shields.io/badge/Zeppelin-E25A1C.svg?&style=for-the-badge&logo=ApacheZeppelin&logoColor=white"/>
  <img src="https://img.shields.io/badge/Selenium-43B02A.svg?&style=for-the-badge&logo=Selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
-</div>
-
-</div>
-<div align='center'>
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
 </div>
 
 
